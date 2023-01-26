@@ -1,8 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
 <h1> Awesome Inc. Bootcamp Blog</h1>
+</head>
 <body>
 <h3> The First Week - 1/26/23</h3>
 <br />
-<img src="img_guinea_pig_with_headset.jpg" alt="A guinea pig with a headset on">
+<img 
+    src="img_guinea_pig_with_headset.jpg";
+    alt="A guinea pig with a headset on";
+    width="200px"
+    height="auto:/>
+<br />
 <h4><strong><em>It’s always hard being the guinea pig.</em></strong><h4>
 
 <p> My first week at the Awesome Inc. Bootcamp was everything that I dreaded. I already had quite a few trepidations about having this be an online setting versus the in person setting that I specifically picked this program for having. My previous experiences with remote learning during the pandemic still gives me anxiety and stress induced trauma reactions when I think of them. I also have my own trigger issues with school, work and life that I knew were probably going to be tested. Not to mention my intense anxiety that always flares up at the most inopportune times.  
