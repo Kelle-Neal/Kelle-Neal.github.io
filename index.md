@@ -12,7 +12,9 @@ This week we dealt with bugs and broken tutorials, conflicting instructions, mis
 <br />
 <img src="img/img_remote_learning.jpg" alt="Empty desk setup to work from home." width="300px" height="auto">
 <br />
-<p>I am very much looking forward to being able to continue to learn more about all of the different languages, tools, programs etc. that are to come.  I’m looking forward to reaching a place where we are all more comfortable with each other and the format of the bootcamp. Everyone seems great and as time goes on hopefully we will be able to develop more of a community among ourselves even if we are not in the same room. So in the spirit of getting to know each other I present...</p>
+<p>I am very much looking forward to being able to continue to learn more about all of the different languages, tools, programs etc. that are to come.  I’m looking forward to reaching a place where we are all more comfortable with each other and the format of the bootcamp. Everyone seems great and as time goes on hopefully we will be able to develop more of a community among ourselves even if we are not in the same room. 
+<br />
+So in the spirit of getting to know each other I present...</p>
 <img src="img/img_man_looking_at_a_big_brain.jpg" alt="Painting of a man staring at a big brain." width="300px" height="auto">
 <br />
 <h4><strong><em>Strange and random things about me…</em></strong></h4>
