@@ -5,10 +5,7 @@
 <body>
 <h3> The First Week - 1/26/23</h3>
 <br />
-<img src="img_guinea_pig_with_headset.jpg";
-    alt="A guinea pig with a headset on";
-    width="200px"
-    height="auto"/>
+<img src="https://github.com/Kelle-Neal/Kelle-Neal.github.io/blob/69256c7d0b6e533d7a70f891f90c7be6ced7381d/img/img_guinea_pig_with_headset.jpg" alt="A guinea pig with a headset on" width="200px" height="auto">
 <br />
 <h4><strong><em>It’s always hard being the guinea pig.</em></strong><h4>
 
@@ -16,14 +13,10 @@
 
 This week we dealt with bugs and broken tutorials, conflicting instructions, miscommunication with help questions, tons of readings in what for me is one of the worst formats to digest, and many more frustrations from learning and trying new things. I deeply felt the isolation of being remote, missing time with my children, and anxieties that caused blocks to my progress. I do wish we were able to be in person, and I wish things had gone more smoothly this week. I actually enjoy problem solving and fixing things. I just didn’t come prepared to do it on day one.</p>
 <br />
-<img src=img_remote_learning.jpg; alt="Empty desk setup to work from home.">
+<img src=img_remote_learning.jpg alt="Empty desk setup to work from home." width="200" height="auto">
 <br />
 <p>I am very much looking forward to being able to continue to learn more about all of the different languages, tools, programs etc. that are to come.  I’m looking forward to reaching a place where we are all more comfortable with each other and the format of the bootcamp. Everyone seems great and as time goes on hopefully we will be able to develop more of a community among ourselves even if we are not in the same room. So in the spirit of getting to know each other I present...</p>
-<img 
-    src="img_man_looking_at_a_big_brain.jpg";
-    alt="Painting of a man staring at a big brain.";
-    width="300px"
-    height="auto"/>
+<img src="img_man_looking_at_a_big_brain.jpg" alt="Painting of a man staring at a big brain." width="300" height="auto">
 <br />
 <h4><strong><em>Strange and random things about me…</em></strong></h4>
 <br />
