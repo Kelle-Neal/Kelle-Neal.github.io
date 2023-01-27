@@ -1,8 +1,5 @@
-<html>
-<head>
 <h1> Awesome Inc. Bootcamp Blog</h1>
-</head>
-<body>
+
 <h3> The First Week - 1/26/23</h3>
 <h4><strong><em>It’s always hard being the guinea pig.</em></strong><h4>
 <img src="img/img_guinea_pig_with_headset.jpg" alt="Guinea Pig with a headset on." width="200px" height="auto">
@@ -18,4 +15,3 @@ So in the spirit of getting to know each other I present...</p>
 <img src="img/img_man_looking_at_a_big_brain.jpg" alt="Painting of a man staring at a big brain." width="300px" height="auto">
 <h4><strong><em>Strange and random things about me…</em></strong></h4>
 <p>I have recently discovered that I have aphantasia which means I do not see images in my head. I don’t hear voices in my head. I don’t taste or smell things from memory.  I’m sure there are other things I don’t do that other people do but honestly finding out that people have all this going on in their heads when I don’t was enough of a world shaking revelation that I’m still processing.  I also do not remember any of my dreams. Maybe they are related. Who knows.</p>
-</body>
